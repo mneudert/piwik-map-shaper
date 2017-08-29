@@ -1,0 +1,13 @@
+{
+  "name": "piwik-map-shaper",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+
+  "dependencies": {
+    "mapshaper": "^0.4.48"
+  },
+
+  "scripts": {
+    "shaper": "node ./shaper.js"
+  }
+}
