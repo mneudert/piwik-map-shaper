@@ -8,6 +8,7 @@
   },
 
   "scripts": {
+    "download": "./shp/download.sh",
     "shaper": "node ./shaper.js"
   }
 }
