@@ -4,3 +4,4 @@
 /geo/
 /shp/*
 !/shp/download.sh
+/svg/
