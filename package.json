@@ -4,7 +4,8 @@
   "license": "GPL-3.0",
 
   "dependencies": {
-    "mapshaper": "^0.4.48"
+    "mapshaper": "^0.4.48",
+    "xml2js": "^0.4.19"
   },
 
   "scripts": {
